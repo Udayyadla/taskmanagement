@@ -25,7 +25,7 @@ This project is a RESTful API built using Node.js, Express.js, and MongoDB. It p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Udayyadla/property_listing_platform
+   git clone https://github.com/Udayyadla/taskmanagement
    cd backend
    ```
 
