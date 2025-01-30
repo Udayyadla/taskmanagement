@@ -70,7 +70,7 @@ project-folder/
 │   │-- models/       # Mongoose models
 │   │-- routes/       # API route handlers
 │   │-- controllers/  # Business logic
-│   │-- config/       # Database connection
+│   │-- dbconnect.js      # Database connection
 │   │-- index.js        # Express app setup
 │-- .env              # Environment variables
 │-- package.json      # Dependencies & scripts
